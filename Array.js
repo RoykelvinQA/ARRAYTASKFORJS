@@ -14,12 +14,5 @@ const friend = [
 
 const Bestfriend = [ "Bolaji", "Dele", "Demola", "Femi", "Wasiu" ]
 
-const Friend = new Array ("Bolaji", "Dele", "Demola", "Femi", "Wasiu")
-Bestfriend[4] = "Adio"
-
-console.log(Bestfriend)
-console.log(Bestfriend.toString())
-console.log(Bestfriend.length)
-console.log(Bestfriend[Bestfriend.length -2])
-
-console.log(Bestfriend[2]  +  ' and '  + Bestfriend [4])
+const bestFriend = "Femi"
+console.log ([bestFriend])
