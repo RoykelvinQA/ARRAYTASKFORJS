@@ -12,7 +12,5 @@ const friend = [
     "Wasiu"
 ]
 
-const Bestfriend = [ "Bolaji", "Dele", "Demola", "Femi", "Wasiu" ]
-
-const bestFriend = "Femi"
+const bestFriend = friend[3]
 console.log ([bestFriend])
