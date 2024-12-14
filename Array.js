@@ -13,4 +13,4 @@ const friend = [
 ]
 
 const bestFriend = friend[3]
-console.log ([bestFriend])
+console.log (bestFriend)
